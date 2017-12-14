@@ -1,0 +1,2 @@
+MainPackage=C:\Users\admin\Documents\DramaResearchProject\UWP\DramaResearchProject\bin\x86\Release\DramaResearchProject_1.0.2.0_x86.appx
+SymbolPackage=C:\Users\admin\Documents\DramaResearchProject\UWP\DramaResearchProject\AppPackages\DramaResearchProject_1.0.2.0_Test\DramaResearchProject_1.0.2.0_x86.appxsym
